@@ -7,7 +7,7 @@ Page to show the profile of a user
 ### :small_blue_diamond: Front-end
 :heavy_check_mark: javascript \
 :heavy_check_mark: webpack \
-:heavy_check_mark: babel \
+:heavy_check_mark: babel 
 
 <hr>
 :space_invader: Test the app in the following link:
